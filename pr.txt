@@ -1,1 +1,3 @@
-**nama : pot**
+**Nama : Fitri Eka Cahyanti**
+```
++Motivasi saya mengikuti lab Compting ini adalah untuk memepelajari lebih dalam tentang bahasa algoritma, mungin memang di kuliah saya mendapatkan pelajaran tentang algoritma komputer tapi saya rasa saya ingin belajar diluar kuliah, saya ingin mendapatlan ilmu diluar apa yang hanya saya pelajari didalam kuliah. Karena saya fikir saat kuliahlah saat yang paling tepat untuk mencari banyak hal yang tidak saya ketahui, termasuk algoritma. Dan saya akhirnya mnemukan lab Computing yang mempelajari tentang algoritma.```
